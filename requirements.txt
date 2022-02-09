@@ -1,0 +1,13 @@
+beautifulsoup4==4.10.0
+Flask==2.0.2
+Flask_Cors==3.0.10
+google_search==1.1.1
+matplotlib==3.5.1
+nltk==3.6.7
+numpy==1.21.5
+rank_bm25==0.2.1
+requests==2.27.1
+six==1.16.0
+tensorflow==1.15.0
+torch==1.10.1
+transformers==4.15.0
